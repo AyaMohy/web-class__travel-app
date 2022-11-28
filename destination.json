@@ -1,0 +1,25 @@
+{
+    "destinations":[
+        {
+            "id":1,
+            "name":"Split",
+            "flag":"ADVENTURES",
+            "image":"./src/assets/split.jpg",
+            "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi expedita, officiis amet laudantium excepturi culpa? Sit autem nobis accusantium fugiat dicta similique iure sunt quae ducimus vitae! Porro, cumque eum."
+        },
+        {
+            "id":2,
+            "name":"Cape Town",
+            "flag":"ADVENTURES",
+            "image":"./src/assets/capeTown.jpg",
+            "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi expedita, officiis amet laudantium excepturi culpa? Sit autem nobis accusantium fugiat dicta similique iure sunt quae ducimus vitae! Porro, cumque eum."
+        },
+        {
+            "id":3,
+            "name":"Denver",
+            "flag":"ADVENTURES",
+            "image":"./src/assets/denver.jpg",
+            "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi expedita, officiis amet laudantium excepturi culpa? Sit autem nobis accusantium fugiat dicta similique iure sunt quae ducimus vitae! Porro, cumque eum."
+        }
+    ]
+}
